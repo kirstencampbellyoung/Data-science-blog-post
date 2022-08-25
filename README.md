@@ -4,8 +4,11 @@ my first blog post project
 # Table of Contents
 
 [Installation](https://github.com/kirstencampbellyoung/Data-science-blog-post/blob/main/README.md#installation)
+
 [Project Motivation](https://github.com/kirstencampbellyoung/Data-science-blog-post/blob/main/README.md#project-motivation)
+
 [File descriptions](https://github.com/kirstencampbellyoung/Data-science-blog-post/blob/main/README.md#file-descriptions)
+
 [Results](https://github.com/kirstencampbellyoung/Data-science-blog-post/blob/main/README.md#results)
 
 # Installation 
