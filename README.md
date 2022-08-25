@@ -1,7 +1,6 @@
 # Project: Write a data science blog post
-my first blog post project
 
-# Table of Contents
+## Table of Contents
 
 1. [Installation](https://github.com/kirstencampbellyoung/Data-science-blog-post/blob/main/README.md#installation)
 2. [Project Motivation](https://github.com/kirstencampbellyoung/Data-science-blog-post/blob/main/README.md#project-motivation)
