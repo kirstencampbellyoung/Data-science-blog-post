@@ -30,7 +30,7 @@ There are 3 notebooks to showcase the work and analysis performed for each of th
 - Question2
 - Question3
 
-There is also a MyHouse.csv which uses the machine learning model to predict prices on real worl scenarios. 
+There is also a MyHouse.csv which uses the machine learning model to predict prices on real world scenarios. 
 
 # Results
 
