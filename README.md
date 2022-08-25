@@ -1,7 +1,10 @@
 # Project: Write a data science blog post
 my first blog post project
 
-# Table of Contents
+#### Table of Contents
+
+[Headers](#headers)  
+[Emphasis](#emphasis) 
 
 # Installation 
 
@@ -30,6 +33,5 @@ There are 3 notebooks to showcase the work and analysis performed for each of th
 
 The findings of my analysis can be found in this [blog post]([url](https://medium.com/@kirstencyoung/so-youre-thinking-of-listing-your-property-on-airbnb-aa542beede47))
 
-# Licensing, Authors, and Acknowledgements
 
 
