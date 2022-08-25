@@ -31,7 +31,7 @@ There are 3 notebooks to showcase the work and analysis performed for each of th
 
 # Results
 
-The findings of my analysis can be found in this [blog post]([url](https://medium.com/@kirstencyoung/so-youre-thinking-of-listing-your-property-on-airbnb-aa542beede47))
+The findings of my analysis can be found in this [blog post](https://medium.com/@kirstencyoung/so-youre-thinking-of-listing-your-property-on-airbnb-aa542beede47)
 
 
 
