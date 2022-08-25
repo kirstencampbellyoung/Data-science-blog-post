@@ -30,6 +30,8 @@ There are 3 notebooks to showcase the work and analysis performed for each of th
 - Question2
 - Question3
 
+There is also a MyHouse.csv which uses the machine learning model to predict prices on real worl scenarios. 
+
 # Results
 
 The findings of my analysis can be found in this [blog post](https://medium.com/@kirstencyoung/so-youre-thinking-of-listing-your-property-on-airbnb-aa542beede47)
